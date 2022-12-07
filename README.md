@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Temuujin-Munkhtsetseg
-- 👀 I’m interested in computers, cooking, & design!
-- 🌱 I’m currently learning nothing. I'm working full time as a marketer & designer in the real estate industry
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me temuujin.m@khuntaij.com
-
-<!---
-Temuujin-Munkhtsetseg/Temuujin-Munkhtsetseg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Tim (@Temuujin-Munkhtsetseg)
+- 👀 I’m interested in cooking, music, and cars!
+- 🌱 I’m currently studying Information Management & Information Systems with a focus in Intelligent Manufacturing at SSPU, Shanghai, China. I work as a developer & marketer @Pamberton and @Khuntaij-dev
+- 🧑‍🏭 I love learning, if you have a project you think we could work together on feel free to reach out!
+- 📫 How to reach me tim@khuntaij.com

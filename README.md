@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Tim (@Temuujin-Munkhtsetseg)
-- 👀 I’m interested in cooking, music, and cars!
-- 🧑‍🏭 I love learning, if you have a project you think we could work together on feel free to reach out!
-- 📫 How to reach me tim@pamberton.com
+Zeep zorp
